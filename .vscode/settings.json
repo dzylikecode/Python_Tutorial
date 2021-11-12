@@ -1,0 +1,19 @@
+{
+    "python.linting.flake8Enabled": true,
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": true,
+    "python.languageServer": "Pylance",
+    "python.formatting.provider": "yapf",
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "python.autoComplete.addBrackets": true,
+    "python.autoComplete.extraPaths": [],
+    "python.analysis.extraPaths": [],
+    "editor.rulers": [
+        80,
+    ],
+    "workbench.colorCustomizations": {
+        "editorRuler.foreground": "#ff4081"
+    },
+    "python.analysis.completeFunctionParens": true
+}

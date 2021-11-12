@@ -84,3 +84,19 @@ Namespaces are one honking great idea -- let's do more of those!
 
 internet replay chat
 
+
+## 编程规范
+
+[pep 8](https://www.python.org/dev/peps/pep-0008/)
+
+[config step1](https://www.jianshu.com/p/53cd688185af)
+
+[config step2](https://zhuanlan.zhihu.com/p/345806901)
+
+## 优秀教程
+
+[莫凡](https://github.com/MorvanZhou/tutorials)
+
+[方便查阅](https://www.w3schools.com/python/default.asp)
+
+
