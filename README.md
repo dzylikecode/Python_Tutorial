@@ -66,6 +66,9 @@ Namespaces are one honking great idea -- let's do more of those!
 
 你首先应该考虑的是，编写清晰易懂且能完成所需功能的代码；等到审核代码时，再考虑采用更高效的方法。
 
+
+python 是个榔头，不要当作收藏品。生活中碰到钉子时，放在工具箱的 python 兴许可以拿出来用用。
+
 </font>
 
 ## 良好的解答网站
@@ -97,6 +100,6 @@ internet replay chat
 
 [莫凡](https://github.com/MorvanZhou/tutorials)
 
-[方便查阅](https://www.w3schools.com/python/default.asp)
+[简约教程](https://www.w3schools.com/python/default.asp)
 
 

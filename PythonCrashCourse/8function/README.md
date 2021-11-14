@@ -86,6 +86,7 @@ function(key_1 = value_1, key_2 = value_2)
 
 ### module
 
+```
 模块导入的方法：
 1、导入整个模块：  
     1）、当要导入的模块和当前执行的程序在同一个路径时，直接使用import语句导入
@@ -108,5 +109,5 @@ function(key_1 = value_1, key_2 = value_2)
     如：
         from 模块名 import A函数 as B #从模块导入函数A并重命名为B
         import A模块 as B #导入模块A并重命名为B
-
+```
 
