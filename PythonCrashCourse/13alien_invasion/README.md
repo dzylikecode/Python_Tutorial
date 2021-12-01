@@ -41,3 +41,10 @@
 
 
 对 Group 的实现机制感到好奇
+
+## struct
+
+![](refactor_pict/1.jpg)
+
+**refactor**
+

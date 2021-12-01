@@ -14,6 +14,8 @@ def check_events_keydown(event, ai_settings, screen, ship, bullets):
         # create a new bullet, and append it to the group
         # Before creating, check the number of bullet first
         fire_bullet(ai_settings, screen, ship, bullets)
+    if event.key == pygame.K_ESCAPE:
+        sys.exit()
 
 
 def fire_bullet(ai_settings, screen, ship, bullets):
@@ -43,7 +45,7 @@ def check_events(ai_settings, screen, ship, bullets):
             check_events_keyup(event, ship)
 
 
-def update_screen(ai_settings, screen, ship, bullets):
+def update_screen(ai_settings, screen, ship, bullets, alien):
     """update the screen, and switch to the new screen"""
     # fill the screen with background color
     screen.fill(ai_settings.bg_color)
@@ -51,6 +53,7 @@ def update_screen(ai_settings, screen, ship, bullets):
     for bullet in bullets.sprites():
         bullet.draw_bullet()
     ship.blitme()
+    alien.blitme()
     # exchange the screen contents
     pygame.display.flip()
 
