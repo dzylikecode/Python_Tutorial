@@ -5,7 +5,6 @@
 
 [随书资源](https://m.ituring.com.cn/book/1861)
 
-参考[Python-100-Days](https://github.com/jackfrued/Python-100-Days)
 
 
 ```
@@ -123,4 +122,4 @@ internet replay chat
 
 [简约教程](https://www.w3schools.com/python/default.asp)
 
-
+[Python-100-Days](https://github.com/jackfrued/Python-100-Days)
